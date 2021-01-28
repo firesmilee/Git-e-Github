@@ -1,0 +1,40 @@
+1985 - CVS 
+--Centralizado
+--Open Source
+--Mais "popular" 
+--Tinha alguns problemas
+
+2000 - SVN
+--Centralizado
+--Open Source
+-- Ativo até hoje
+--CVS-like (Queria se parecer com um CVS)
+
+2000 - BitKeeper
+--Distribuído
+--Software Proprietário
+--Existe a versão comunidade
+--CVS-free
+
+2005 - Git
+--Distribuído
+--Open Source
+--Feito em 10 dias
+--Performance
+
+2008 - GitHub
+--Proprietário
+--Hospegadem de código
+--Baseado em Git
+--2009: 46k repositórios publicos 
+--2010:100k users/ 1M repositórios
+--2011: Ultrapassou SourceForge
+--2013: 3M users/ 5M repositórios
+--2016: 14° lugar na lista da Forbes
+--2018: Maior ataque de DDoS da história
+
+2018 - GitHub
+--Adquiridos pela Microsoft
+--US$ 7.5bilhões 
+--Operação independente 
+--2020: GitHub compra a npm

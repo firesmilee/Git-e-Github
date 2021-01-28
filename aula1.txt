@@ -1,0 +1,38 @@
+É um software de versionamento, onde o gerenciamento do projeto se torna mais fácil.
+
+Para se fazer um versionamento é necessário que o sistema seja iniciado através de um commit
+o commit faz o arquivo ir para o repositório central 
+
+O primero vsc criado em 1972 foi o centralizado/linear que era necessário ter um servidor e 
+ter uma conexão direta para o repositório central.
+
+o próximo modo foi o modelo distribuido, onde se tem um repositório local para a contribuição de cada pessoa,
+depois desse vsc local (com o commit), se faz um push, onde vai para o repositório remoto.
+
+métodos de versionamento 
+----centralizado/linear
+CA software change manager (CCC)
+Source code control system (SCCS)
+Panvalet
+Concurrent version system (CVS)
+Apache subversion (SVN)
+ClearCase
+Visual sourcesafe
+Perforce 
+
+---distribuido
+Mercurial
+Bazaar
+Code co-op
+GNU arch
+Monotone
+Fossil
+BitKeeper
+Git
+
+Vantagens de utilizar um controle de versão
+-Controle de histórico
+-Trabalho em equipe
+-Ramificações do projeto
+-Segurança
+-Organização

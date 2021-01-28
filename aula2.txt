@@ -1,0 +1,27 @@
+---Github
+o Git ele é o repositório local de um sistema de vsc distribuido 
+o Github ele é um dos repositórios remotos mais famosos que existe.
+
+O Github é um local onde você irá criar o seu repositório online e um meio onde você conseguir contatos 
+com outros programadores, fazendo com que você se introduza dentro de uma comunidade.
+
+A quantidade de repositórios são ilimitados, se for privado existe uma restrição para a quantidade de pessoas envolvidas
+no projeto, sendo no maximo 3.
+
+Hospedagem de código online
+
+Tem caracteristicas de uma rede social, onde você pode ver os códigos de outras pessoas entre outras coisas.
+
+Tem o GitHub pages integrado, podendo hospedar um site basico para mostrar para outras pessoas sem a necessidade de pagar.
+
+Colaboração com outras pessoas dentro.
+
+Forks é uma maneira de continuar um projeto de outra pessoa de uma maneira própria.
+
+Outros repositórios online
+-- GitLab
+-- Bitbucket
+-- Phabricator
+-- Gogs
+-- Kallithea
+
